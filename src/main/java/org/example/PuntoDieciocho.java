@@ -10,18 +10,15 @@ public class PuntoDieciocho {
         // letras minúsculas y dígitos. Puedes utilizar la clase Math para generar números aleatorios y la clase String
         // para manipular la contraseña.
 
-        String mayusculas = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-        String minusculas = "abcdefghijklmnopqrstuvwxyz";
-        String numeros = "0123456789";
-        String combinados = mayusculas + minusculas + numeros;
+        String caracteres = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
         int cantidad = 8;
         Random random = new Random();
 
         char[] aleatorio = new char[cantidad];
         for (int i = 0; i < cantidad; i++){
-            int index = random.nextInt(combinados.length());
-            char caracter = combinados.charAt(index);
+            int index = random.nextInt(caracteres.length());
+            char caracter = caracteres.charAt(index);
             aleatorio[i] = caracter;
         }
         String contrasena = new String(aleatorio);

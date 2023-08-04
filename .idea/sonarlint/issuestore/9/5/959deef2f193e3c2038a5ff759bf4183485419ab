@@ -1,8 +1,4 @@
 
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Ïð†ñ8ƒ¶’¢›1
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Ïð†ñ8„¶’¢›1
-O
-java:S1481"-Remove this unused "contador" local variable.(¸¼¾ÿøÿÿÿÿ8„¶’¢›1
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Ù©È±8…¶’¢›1
-c
-java:S1126!"AReplace this if-then-else statement by a single return statement.(ššû£úÿÿÿÿ8†¶’¢›1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ïð†ñ8ª ™ñ›1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ïð†ñ8« ™ñ›1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ù©È±8¬ ™ñ›1

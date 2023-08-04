@@ -30,8 +30,6 @@ X
 X
 (src/main/java/org/example/PuntoDoce.java,5\b\5bf3130c7e17f0f7f9966d1f981e38ecac1c09eb
 ^
-.src/main/java/org/example/PuntoDiecisiete.java,9\5\959deef2f193e3c2038a5ff759bf4183485419ab
-^
 .src/main/java/org/example/PuntoDiecinueve.java,3\d\3dafd0aa1c588cbb54133c44ce504cacb568d307
 \
 ,src/main/java/org/example/PuntoVentiuno.java,e\f\ef057d184964d2fbbdde51c011f316b49fa68729
@@ -59,5 +57,9 @@ _
 .src/main/java/org/example/PuntoTreintados.java,c\7\c7c4a913fa911f5e910593a7c9ae6c9a165dcdc6
 _
 /src/main/java/org/example/PuntoVeinticinco.java,7\0\70bdba14ea9f8019a2720b53f6b587cfe12c4011
+]
+-src/main/java/org/example/PuntoDieciocho.java,8\c\8c46d2e8dbe499e86e2e6f0cfb784001aa509f4e
+^
+.src/main/java/org/example/PuntoDiecisiete.java,9\5\959deef2f193e3c2038a5ff759bf4183485419ab
 Y
 )src/main/java/org/example/PuntoTrece.java,4\3\4350a37a5c77d79744a0dffec4fd315df1356e62

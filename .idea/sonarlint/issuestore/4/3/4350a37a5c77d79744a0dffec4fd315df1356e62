@@ -1,6 +1,6 @@
 
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Ïð†ñ8ì¬ÄÌ›1
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Ç´ªÕ8í¬ÄÌ›1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ïð†ñ8é¿¥ñ›1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ç´ªÕ8ê¿¥ñ›1
 C
-java:S2111"!Use "BigDecimal.valueOf" instead.(á»…æÿÿÿÿÿ8î¬ÄÌ›1
-U	java:S106"9Replace this use of System.out or System.err by a logger.(úëêá8ï¬ÄÌ›1
+java:S2111"!Use "BigDecimal.valueOf" instead.(á»…æÿÿÿÿÿ8ë¿¥ñ›1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(úëêá8ì¿¥ñ›1

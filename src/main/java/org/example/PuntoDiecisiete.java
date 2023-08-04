@@ -14,10 +14,8 @@ public class PuntoDiecisiete {
         numInicial = sc.nextInt();
         System.out.print("Ingrese un numero: ");
         numFinal = sc.nextInt();
-        int contador = 0;
         for (int i = numInicial; i <= numFinal; i++) {
             if (esPrimo(i)) {
-                contador++;
                 System.out.print(i + " ");
             }
         }
@@ -32,7 +30,7 @@ public class PuntoDiecisiete {
         for (int i = 2; i < numero / 2; i++) {
             if (numero % i == 0) {
                 return false;
-            } else return true;
+            }
         }
         return true;
     }
